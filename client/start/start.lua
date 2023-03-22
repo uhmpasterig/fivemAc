@@ -3,7 +3,7 @@ start.__index = start
 RegisterNetEvent("zero:config:refresh", function(config)
   config = config
 end)
-
+--s
 function Start:FetchConfig()
   local config = {}
   Callback:Trigger("zero:config:fetch", function(cfg)
