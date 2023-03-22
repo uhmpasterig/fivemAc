@@ -1,6 +1,6 @@
 Start = {}
 start.__index = start
-
+-- test
 RegisterNetEvent("zero:config:refresh", function(config)
   config = config
 end)
