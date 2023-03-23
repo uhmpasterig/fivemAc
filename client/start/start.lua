@@ -11,7 +11,7 @@ function Start:FetchConfig()
   end)
   if config == {} then 
     Wait(1000)
-    local config = Start:fetchConfig()
+    config = Start:fetchConfig()
   end
   return config
 end
