@@ -9,5 +9,4 @@ Unfinished version of an Fivem Anticheat, i took out the features for detections
 
 ### Credits to:
 > Skurllex ღ#1337 for some detectons.
-
 > oxince#1337 for parts of the logic.
